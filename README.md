@@ -1,8 +1,8 @@
-<a href="http://icst.ugm.ac.id/2019/"><img src="https://github.com/bppugm/icst-2019/blob/master/images/logos/logo.svg" height="142px" align="right"></a>
+<a href="http://biomic.ugm.ac.id/2019/"><img src="https://github.com/bppugm/biomic-2019/blob/master/images/logos/logo.svg" height="142px" align="right"></a>
 
-# Website for the ICST 2019
+# Website for the BioMIC 2019
 
-This is the website for The 5<sup>th</sup> International Conference on Science and Technology (ICST 2019), hosted by Universitas Gadjah Mada.
+This is the website for The 2<sup>nd</sup> International Conference on Bioinformatics, Biotechnology, and Biomedical Engineering (BioMIC 2019), hosted by Universitas Gadjah Mada.
 
 ## Credits
 
@@ -13,7 +13,7 @@ This is the website for The 5<sup>th</sup> International Conference on Science a
 
 ### Development
 
-+ HTML, CSS, Javascript Library by [Bootstrap 4.0.0-alpha.6](https://v4-alpha.getbootstrap.com/)
++ HTML, CSS, Javascript Library by [Bootstrap 4.2.1](https://getbootstrap.com/4.2/)
 + Based on [ICST 2017 Website](https://github.com/jaybaeta/icst-2017) © [Joaquim Baeta](https://github.com/jaybaeta/) under the [MIT License](https://github.com/jaybaeta/icst-2017/blob/master/LICENSE.md)
 
 ### Icons

@@ -9365,7 +9365,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   font-size: 90%;
 }
 
-/* COLUMNS IN BLUE AREA */
+/* COLUMNS IN GREEN AREA */
 
 @media (min-width: 992px) {
   .intro-left-col {
@@ -9897,7 +9897,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   }
 }
 
-/* BLUE AREA OF PUBLICATIONS PAGES */
+/* GREEN AREA OF PUBLICATIONS PAGES */
 
 .blue-area h1 {
   color: rgba(255, 255, 255, 0.9);
@@ -9924,7 +9924,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
   color: rgba(255, 255, 255, 0.9);
 }
 
-/* BREADCRUMBS IN BLUE AREA */
+/* BREADCRUMBS IN GREEN AREA */
 
 .blue-area-breadcrumb > .breadcrumb-item + .breadcrumb-item::before {
   color: rgba(255, 255, 255, 0.4);

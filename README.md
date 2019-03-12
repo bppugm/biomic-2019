@@ -37,13 +37,12 @@ This is the website for The 2<sup>nd</sup> International Conference on Bioinform
 
 ### Symposia images
 
-+ Computer and Information Technology: [Ars Electronica](https://flic.kr/p/NLBeFd); [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
-+ Electronics, Communication, Control, and Instrumentation: [Ched Cheddles](https://flic.kr/p/9773UW); [CC BY-NC-ND 2.0](https://creativecommons.org/licenses/by-nc-nd/2.0/)
-+ Environmental and Earth Science: [Kreemerz](https://flic.kr/p/27f3hV5); [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
-+ Material Science and Chemistry: [Martin Lopez](https://www.pexels.com/photo/two-test-tubes-954585/); free for personal and commercial use
-+ Mechanical and Industrial Engineering: [Pixabay](https://www.pexels.com/photo/gray-and-gold-steel-gears-159275/); free for personal and commercial use
-+ Power and Energy: [Ali Madad](https://www.pexels.com/photo/people-in-boat-near-water-dam-1259924/); free for personal and commercial use
-+ Remote Sensing and Geomatics: [NASA's Marshall Space Flight Center](https://flic.kr/p/UyzZWb); [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)
++ Bioinformatics and Biological Data Mining: [UC San Diego Jacobs School of Engineering](https://www.flickr.com/photos/jsoe/45633509242/in/album-72157673009353107/; [CC BY 2.0](https://creativecommons.org/licenses/by/2.0/)
++ Biomedical Engineering and Technology: [Kjpargeter](https://www.freepik.com/free-photo/3d-printer-printing-dna-helix_923828.htm); free for commercial use
++ Biomedical Sciences: [Kjpargeter](https://www.freepik.com/free-photo/3d-virus-cells-attacking-dna-strand_1371174.htm); free for commercial use)
++ Biomolecular and Biotechnology: [freepic.diller](https://www.freepik.com/free-photo/researcher-takes-probe-green-plant-puts-it-petri-dish_2612682.htm); free for commercial use
++ Drug Development and Nutraceutical: [Pixabay](https://www.pexels.com/photo/cold-winter-tablet-hot-34670/); free for personal and commercial use
++ Public Helath: [Pixabay](https://www.pexels.com/photo/blue-and-silver-stetoscope-40568/); free for personal and commercial use
 
 
 ## License

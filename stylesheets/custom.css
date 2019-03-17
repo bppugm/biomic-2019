@@ -1,8 +1,24 @@
 /*!
- * Custom stylesheet for ICST website
+ * Custom stylesheet for BioMIC website
  * Created by Jaybaeta (https://github.com/jaybaeta) on 2017
  * Modified by Wildan (https://github.com/w1lldone) and Rafieiy (https://github.com/davieiycode) on 2019
  */
+
+/* ALERT */
+
+.alert-teal {
+  color: #0e6a59;
+  background-color: #d2f5eb;
+  border-color: #c0f0e5;
+}
+
+.alert-teal hr {
+  border-top-color: #abecde;
+}
+
+.alert-teal .alert-link {
+  color: #093d39;
+}
 
 /* MAGNIFYING GLASS by w3schools (https://www.w3schools.com/howto/howto_js_image_magnifier_glass.asp) */
 
